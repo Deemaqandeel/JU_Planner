@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "333188318051",
+    "project_id": "ju-event-management-planner",
+    "storage_bucket": "ju-event-management-planner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333188318051:android:74b45b2b073528651a0956",
+        "android_client_info": {
+          "package_name": "com.JU_Event_Management.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333188318051-n8h1c1ct7toaqf4c6166rfri74plt5ks.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.JU_Event_Management.app",
+            "certificate_hash": "93f490092b17cfcc383623b68c61f0928e88684e"
+          }
+        },
+        {
+          "client_id": "333188318051-plnlr9qdtjtgaddp7qcvdql3mkglubkq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAMFJ190lUpBvY3od1dA-vPBDbxEWDyBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333188318051-plnlr9qdtjtgaddp7qcvdql3mkglubkq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "333188318051-ees1k9qejevqprs3tfq8oni1pqp127rs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.juEventManagmentPlanner"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
